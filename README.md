@@ -22,7 +22,7 @@
 I am a **Software Engineering** senior at **NUST** with a dual focus on **AI Research** and **Production Engineering**.
 
 * 🔭 **Incoming:** AI Researcher at **Mitacs (Canada)** (Mining Anti-social Behavior).
-* 💼 **Previous:** Software Engineer at **GoSaaS**, AI Researcher at **TUKL Lab**, ML Intern at **Oz Limited**.
+* 💼 **Previous:** Software Engineer Intern at **GoSaaS**, AI Researcher at **TUKL Lab**, ML Intern at **Oz Limited**.
 
 ---
 
